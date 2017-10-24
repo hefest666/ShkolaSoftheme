@@ -1,0 +1,6 @@
+D:\Viktor\Documents\GIT HUB\ShkolaSoftheme\CSharpHW\Lection_1\HelloViktor\HelloViktor\bin\Debug\HelloViktor.exe.config
+D:\Viktor\Documents\GIT HUB\ShkolaSoftheme\CSharpHW\Lection_1\HelloViktor\HelloViktor\bin\Debug\HelloViktor.exe
+D:\Viktor\Documents\GIT HUB\ShkolaSoftheme\CSharpHW\Lection_1\HelloViktor\HelloViktor\bin\Debug\HelloViktor.pdb
+D:\Viktor\Documents\GIT HUB\ShkolaSoftheme\CSharpHW\Lection_1\HelloViktor\HelloViktor\obj\Debug\HelloViktor.csprojResolveAssemblyReference.cache
+D:\Viktor\Documents\GIT HUB\ShkolaSoftheme\CSharpHW\Lection_1\HelloViktor\HelloViktor\obj\Debug\HelloViktor.exe
+D:\Viktor\Documents\GIT HUB\ShkolaSoftheme\CSharpHW\Lection_1\HelloViktor\HelloViktor\obj\Debug\HelloViktor.pdb
