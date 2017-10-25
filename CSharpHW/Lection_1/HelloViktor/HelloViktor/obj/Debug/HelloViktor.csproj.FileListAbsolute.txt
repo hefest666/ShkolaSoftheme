@@ -4,3 +4,10 @@ D:\Viktor\Documents\GIT HUB\ShkolaSoftheme\CSharpHW\Lection_1\HelloViktor\HelloV
 D:\Viktor\Documents\GIT HUB\ShkolaSoftheme\CSharpHW\Lection_1\HelloViktor\HelloViktor\obj\Debug\HelloViktor.csprojResolveAssemblyReference.cache
 D:\Viktor\Documents\GIT HUB\ShkolaSoftheme\CSharpHW\Lection_1\HelloViktor\HelloViktor\obj\Debug\HelloViktor.exe
 D:\Viktor\Documents\GIT HUB\ShkolaSoftheme\CSharpHW\Lection_1\HelloViktor\HelloViktor\obj\Debug\HelloViktor.pdb
+C:\Repositories\CSharpHW\Lection_1\HelloViktor\HelloViktor\bin\Debug\HelloViktor.exe.config
+C:\Repositories\CSharpHW\Lection_1\HelloViktor\HelloViktor\bin\Debug\HelloViktor.exe
+C:\Repositories\CSharpHW\Lection_1\HelloViktor\HelloViktor\bin\Debug\HelloViktor.pdb
+C:\Repositories\CSharpHW\Lection_1\HelloViktor\HelloViktor\obj\Debug\HelloViktor.csprojResolveAssemblyReference.cache
+C:\Repositories\CSharpHW\Lection_1\HelloViktor\HelloViktor\obj\Debug\HelloViktor.csproj.CoreCompileInputs.cache
+C:\Repositories\CSharpHW\Lection_1\HelloViktor\HelloViktor\obj\Debug\HelloViktor.exe
+C:\Repositories\CSharpHW\Lection_1\HelloViktor\HelloViktor\obj\Debug\HelloViktor.pdb
