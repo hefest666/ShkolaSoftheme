@@ -13,11 +13,9 @@ namespace HelloViktor
             const string myName = "Viktor";
 
             Console.ForegroundColor = ConsoleColor.Yellow;
+            Console.BackgroundColor = ConsoleColor.Blue;
             Console.WriteLine(myName);
-            Console.WriteLine("Created!");
-            Console.WriteLine("Created2!");
-            Console.WriteLine("Hello!");
-            Console.WriteLine("Hello!2");
+            
             Console.ResetColor();
             Console.ReadKey();
         }
