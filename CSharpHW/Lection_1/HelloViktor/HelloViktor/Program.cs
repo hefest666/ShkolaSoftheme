@@ -15,6 +15,7 @@ namespace HelloViktor
             Console.ForegroundColor = ConsoleColor.Yellow;
             Console.WriteLine(myName);
             Console.WriteLine("Created!");
+            Console.WriteLine("Created2!");
             Console.ResetColor();
             Console.ReadKey();
         }
