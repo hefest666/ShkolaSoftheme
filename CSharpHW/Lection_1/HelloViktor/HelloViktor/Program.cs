@@ -13,7 +13,7 @@ namespace HelloViktor
             const string myName = "Viktor";
 
             Console.ForegroundColor = ConsoleColor.Yellow;
-            Console.BackgroundColor = ConsoleColor.Blue;
+            Console.BackgroundColor = ConsoleColor.Green;
             Console.WriteLine(myName);
             
             Console.ResetColor();
