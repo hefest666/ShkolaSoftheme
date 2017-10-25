@@ -17,6 +17,7 @@ namespace HelloViktor
             Console.WriteLine("Created!");
             Console.WriteLine("Created2!");
             Console.WriteLine("Hello!");
+            Console.WriteLine("Hello!2");
             Console.ResetColor();
             Console.ReadKey();
         }
