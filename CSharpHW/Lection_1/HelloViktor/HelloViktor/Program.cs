@@ -10,11 +10,17 @@ namespace HelloViktor
     {
         static void Main(string[] args)
         {
-            const string myName = "Viktor";
+            const char symb = '*';
 
-            Console.ForegroundColor = ConsoleColor.Yellow;
-            Console.BackgroundColor = ConsoleColor.Green;
-            Console.WriteLine(myName);
+            for(int i = 0; i <= 10; i++)
+            {
+                
+                Console.Write(symb + " ");
+                
+                
+                Console.WriteLine();
+                
+            }
             
             Console.ResetColor();
             Console.ReadKey();
