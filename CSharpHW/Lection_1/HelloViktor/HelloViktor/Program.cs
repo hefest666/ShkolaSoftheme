@@ -12,6 +12,8 @@ namespace HelloViktor
         {
             string symb = string.Empty;
 
+            Console.ForegroundColor = ConsoleColor.Cyan;
+
             for(int i = 0; i <= 10; i++)
             {
                 
