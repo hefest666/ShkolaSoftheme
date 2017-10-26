@@ -10,14 +10,14 @@ namespace HelloViktor
     {
         static void Main(string[] args)
         {
-            const char symb = '*';
+            string symb = string.Empty;
+
+            Console.ForegroundColor = ConsoleColor.Cyan;
 
             for(int i = 0; i <= 10; i++)
             {
                 
-                Console.Write(symb + " ");
-                
-                
+                Console.Write(symb+="*");
                 Console.WriteLine();
                 
             }

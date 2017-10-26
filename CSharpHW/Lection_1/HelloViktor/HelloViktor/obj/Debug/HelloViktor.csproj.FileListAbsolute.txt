@@ -11,3 +11,9 @@ C:\Repositories\CSharpHW\Lection_1\HelloViktor\HelloViktor\obj\Debug\HelloViktor
 C:\Repositories\CSharpHW\Lection_1\HelloViktor\HelloViktor\obj\Debug\HelloViktor.csproj.CoreCompileInputs.cache
 C:\Repositories\CSharpHW\Lection_1\HelloViktor\HelloViktor\obj\Debug\HelloViktor.exe
 C:\Repositories\CSharpHW\Lection_1\HelloViktor\HelloViktor\obj\Debug\HelloViktor.pdb
+D:\Viktor\Repositories\CSharpHW\Lection_1\HelloViktor\HelloViktor\bin\Debug\HelloViktor.exe.config
+D:\Viktor\Repositories\CSharpHW\Lection_1\HelloViktor\HelloViktor\bin\Debug\HelloViktor.exe
+D:\Viktor\Repositories\CSharpHW\Lection_1\HelloViktor\HelloViktor\bin\Debug\HelloViktor.pdb
+D:\Viktor\Repositories\CSharpHW\Lection_1\HelloViktor\HelloViktor\obj\Debug\HelloViktor.csprojResolveAssemblyReference.cache
+D:\Viktor\Repositories\CSharpHW\Lection_1\HelloViktor\HelloViktor\obj\Debug\HelloViktor.exe
+D:\Viktor\Repositories\CSharpHW\Lection_1\HelloViktor\HelloViktor\obj\Debug\HelloViktor.pdb
