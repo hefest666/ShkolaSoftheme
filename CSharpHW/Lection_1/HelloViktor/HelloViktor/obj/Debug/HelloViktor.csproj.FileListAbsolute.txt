@@ -17,3 +17,4 @@ D:\Viktor\Repositories\CSharpHW\Lection_1\HelloViktor\HelloViktor\bin\Debug\Hell
 D:\Viktor\Repositories\CSharpHW\Lection_1\HelloViktor\HelloViktor\obj\Debug\HelloViktor.csprojResolveAssemblyReference.cache
 D:\Viktor\Repositories\CSharpHW\Lection_1\HelloViktor\HelloViktor\obj\Debug\HelloViktor.exe
 D:\Viktor\Repositories\CSharpHW\Lection_1\HelloViktor\HelloViktor\obj\Debug\HelloViktor.pdb
+D:\Viktor\Repositories\CSharpHW\Lection_1\HelloViktor\HelloViktor\obj\Debug\HelloViktor.csproj.CoreCompileInputs.cache
