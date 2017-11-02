@@ -1,0 +1,33 @@
+﻿<Window x:Class="Task4_2.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Task4_2"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="373.087" Width="254.42">
+    <Grid RenderTransformOrigin="0.5,0.575">
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="16*"/>
+            <ColumnDefinition Width="9*"/>
+            <ColumnDefinition Width="70*"/>
+            <ColumnDefinition Width="22*"/>
+            <ColumnDefinition Width="12"/>
+        </Grid.ColumnDefinitions>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="7*"/>
+            <RowDefinition Height="18*"/>
+            <RowDefinition Height="24*"/>
+            <RowDefinition Height="19*"/>
+            <RowDefinition Height="64*"/>
+            <RowDefinition Height="39*"/>
+        </Grid.RowDefinitions>
+        <Label Content="Знак зодиака" Grid.Column="2" HorizontalAlignment="Left" Grid.Row="1" VerticalAlignment="Top" Height="33" Width="127" Margin="8,0,0,0" FontSize="18"/>
+        <Label Content="Введите дату рождения" Grid.Column="2" HorizontalAlignment="Left" Margin="0,10,0,0" Grid.Row="2" VerticalAlignment="Top" Height="26" Width="140"/>
+        <TextBox x:Name="birthDay" Grid.Column="2" HorizontalAlignment="Left" Height="23" Grid.Row="3" TextWrapping="Wrap" VerticalAlignment="Top" Width="141" Grid.ColumnSpan="2" TextAlignment="Center"/>
+        <Button x:Name="bShow" Content="Показать" HorizontalAlignment="Left" Margin="0,10,0,0" Grid.Row="5" VerticalAlignment="Top" Width="141" Grid.Column="2" Grid.ColumnSpan="2" Height="37" Click="bShow_Click"/>
+        <Image x:Name="img" Grid.Column="2" HorizontalAlignment="Left" Height="128" Grid.Row="4" VerticalAlignment="Top" Width="140" Source="pack://siteoforigin:,,,/Resources/1.png"/>
+        <Label x:Name="error" Content="" Grid.Column="2" HorizontalAlignment="Left" Margin="30,47,0,0" Grid.Row="4" VerticalAlignment="Top" Width="79" FontWeight="Bold" FontSize="14"/>
+
+    </Grid>
+</Window>
