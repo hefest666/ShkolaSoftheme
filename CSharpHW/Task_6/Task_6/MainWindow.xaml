@@ -1,0 +1,16 @@
+﻿<Window x:Class="Task_6.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Task_6"
+        mc:Ignorable="d"
+        Title="Random numbers" Height="201.321" Width="199.011" ResizeMode="NoResize">
+    <Grid Margin="0,0,0,3">
+        <Button Content="Generate" HorizontalAlignment="Left" Margin="56,10,0,0" VerticalAlignment="Top" Width="75" Height="23" Click="Button_Click"/>
+        <TextBox x:Name="text" HorizontalAlignment="Left" Height="23" Margin="36,67,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120" TextAlignment="Center"/>
+        <Label x:Name="lbl" Content="You have 3 attempts" HorizontalAlignment="Left" Margin="36,133,0,0" VerticalAlignment="Top"/>
+        <Button x:Name="BTry" Content="Try" HorizontalAlignment="Left" Margin="70,95,0,0" VerticalAlignment="Top" Width="51" Height="23" Click="BTry_Click"/>
+
+    </Grid>
+</Window>
