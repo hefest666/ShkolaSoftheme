@@ -6,28 +6,23 @@ using System.Threading.Tasks;
 
 namespace Task8_2
 {
-    static class CarConstructor
-    {
-        public static Car Construct(string mod, string eng, string col, byte trans)
+    class CarConstructor
+    {                
+        public Car Construct(string mod, Color col, Engine eng, Transmission tra)
         {
-            Car c1 = new Car()
-            {
+            Car car = new Car() {
                 Model = mod,
-                Engine = eng,
-                Color = col,
-                Transmission = trans
-            };            
-
-            return c1;
+                col = col,
+                eng = eng,
+                transm = tra
+            };
+            return car;
         }
 
-        public static void Reconstract(Car c1, string eng)
+        public Car Reconstract(Car car, Engine eng)
         {
-            //Car c1;
-
-            c1.Engine = eng;
-
-            //return c1;
+            car.eng = eng;            
+            return car;
         }
     }
 }

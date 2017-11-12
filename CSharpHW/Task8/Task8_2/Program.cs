@@ -14,20 +14,18 @@ namespace Task8_2
             Console.WriteLine("Method Construct..\n");
             Console.ResetColor();
 
-            var daewo = new Car();            
-            daewo = CarConstructor.Construct("Daewo Lanos", "Turbo: 1.9", "Red", 5);            
-            daewo.ShowInfo();
+            Car daewo = new Car();
+            CarConstructor CC = new CarConstructor();
             
-            var mersedez = new Car();            
-            mersedez = CarConstructor.Construct("Mersedez Benz" , "Standart: 2.5", "White", 6);
-            mersedez.ShowInfo();
+            daewo = CC.Construct("Daewo Lanos", Color.Green, Engine.Disel, Transmission.Mechanical);
+            daewo.ShowInfo();
 
             Console.ForegroundColor = ConsoleColor.DarkCyan;
             Console.WriteLine("\nMethod Reconstruct..\n");
             Console.ResetColor();
 
-            CarConstructor.Reconstract(daewo, "Turbo: 2.9");
-            daewo.ShowInfo();        
+            daewo = CC.Reconstract(daewo, Engine.Gas);
+            daewo.ShowInfo();
 
             Console.ReadKey();
         }
